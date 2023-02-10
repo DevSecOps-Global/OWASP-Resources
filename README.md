@@ -9,7 +9,7 @@ Para responder a essa pergunta podemos ter os mais variados motivos. Primeiramen
 
 Eu particularmente decidi me associar por achar que pode ser um alavancador para a carreira na área de segurança e desenvolvimento. Ao se tornar membro você tem a possibilidade de aumentar sua rede de contatos, ter descontos em treinamentos e eventos, oportunidades de voluntariado, contribuição em projetos, etc.
 
-Após me associar, tive acesso a benefícios que, particularmente, achei muito interessantes. Passei a ter gratuitamente conta de dois ambientes de treinamentos online chamados **[SecureFlag](https://www.secureflag.com/)** e **[Security Journey](https://www.securityjourney.com/)** e  uma conta na [Ubiq](https://www.ubiqsecurity.com/).
+Após me associar, tive acesso a benefícios que, particularmente, achei muito interessantes. Passei a ter gratuitamente conta de dois ambientes de treinamentos online chamados **[SecureFlag](https://www.secureflag.com/)** e **[Security Journey](https://www.securityjourney.com/)** e  uma conta na **[Ubiq](https://www.ubiqsecurity.com/)**.
 
 
 **SecureFlag**
