@@ -1,3 +1,4 @@
+![](assets/OWASP_Logo_Transp.png)
 # Quem é a OWASP?
 
 O **Open Web Application Security Project ® (OWASP)** é uma fundação sem fins lucrativos que trabalha para melhorar a segurança do software. Por meio de projetos de software de código aberto liderados pela comunidade, centenas de capítulos locais em todo o mundo, dezenas de milhares de membros e importantes conferências educacionais e de treinamento, a OWASP Foundation é a fonte para desenvolvedores e tecnólogos protegerem a web.
