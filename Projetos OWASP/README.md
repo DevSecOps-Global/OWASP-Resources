@@ -2,8 +2,6 @@
 
 Atualmente, a OWASP tem mais de 100 projetos ativos e novas inscrições de projetos são enviadas toda semana. Cada projeto tem minimamente sua própria página da web, lista de discussão e Slack Channel.
 
-[img](Projetos OWASP/assets/projects.png)
-
 ## Principais
 
 ### OWASP Top 10
@@ -49,3 +47,5 @@ O Web Security Testing Guide é um documento que descreve como testar qualquer c
 ### Threat Dragon
 
 Threat Dragon é uma ferramenta baseada na web para ajudá-lo a executar a tarefa de modelagem de ameaças. Ele permite que você desenhe imagens e identifique as ameaças e rastreie as mitigações de uma maneira mais automatizada, mais centralizada do que se tivéssemos pessoas desenhando no papel.
+
+![](../assets/projects.png)
